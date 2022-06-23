@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Title</title>
+    <title>TEST</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -19,14 +19,10 @@
         <div class="card">
             <img class="card-img-top">
             <div class="card-body">
-                <h4 class="card-title">TOTAL</h4>
+                <h4 class="card-title">TEST</h4>
                 <p class="card-text">Total Peredaran Bruto</p>
             </div>
-            <ul class="list-group list-group-flush">
-                <li class="list-group-item">Margin {{ $margin }}</li>
-                <li class="list-group-item">Hak Produsen {{ $hargatotal }}</li>
-                <li class="list-group-item">Item 3</li>
-            </ul>
+
         </div>
     </div>
 
